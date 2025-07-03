@@ -1,3 +1,3 @@
 #!/bin/bash
-cd ../docker/nginx/certs
+cd ./docker/nginx/certs
 mkcert localhost
