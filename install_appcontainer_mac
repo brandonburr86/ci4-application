@@ -1,0 +1,4 @@
+#!/bin/bash
+bash scripts/certs
+docker compose pull
+docker compose up -d
